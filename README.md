@@ -20,5 +20,6 @@
 🔎正在学习  
 
 ![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=React&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stream12138&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
