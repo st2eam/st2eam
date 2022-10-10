@@ -4,7 +4,7 @@
 
 💻Front-end developer
 
-Blog to be developed：[st2eam's blog](https://st2eam.github.io)
+Blog to be developed：[stream's blog](https://st2eam.github.io)
 
 ✏️Design
 
