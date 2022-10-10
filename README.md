@@ -4,6 +4,8 @@
 
 💻Front-end developer
 
+Blog to be developed：[st2eam's blog](https://st2eam.github.io)
+
 ✏️Design
 
 ![Adobe%20Photoshop](https://img.shields.io/badge/-Ps-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
