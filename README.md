@@ -6,6 +6,8 @@
 
 Blog to be developed：[stream's blog](https://st2eam.github.io)
 
+Taking notes：[stream's notes](https://st2eam.github.io/notes)
+
 ✏️Design
 
 ![Adobe%20Photoshop](https://img.shields.io/badge/-Ps-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
