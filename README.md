@@ -16,6 +16,7 @@
 ![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=React&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![python](https://img.shields.io/badge/-Python-3672a5?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3178C6?style=flat-square&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
 
@@ -23,6 +24,7 @@
 
 ![React](https://img.shields.io/badge/-React-444444?style=flat-square&logo=React&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![python](https://img.shields.io/badge/-Python-3672a5?style=flat-square&logo=Python&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stream12138&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 
