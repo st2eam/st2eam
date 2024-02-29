@@ -22,7 +22,6 @@ Taking notes：[stream's notes](https://st2eam.github.io/notes)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-3672a5?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-3178C6?style=flat-square&logo=cplusplus&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white)
 
 🔎Studying 
 
