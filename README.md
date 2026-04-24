@@ -54,10 +54,10 @@
 
 ### 🎨 Design Tools
 
-![Photoshop](https://img.shields.io/badge/-Ps-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/-Lr-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Ai-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Xd-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
+![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
 
 ---
 
