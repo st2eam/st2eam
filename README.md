@@ -74,13 +74,6 @@ Drawn to the interplay of light, shadow, and color — shooting across genres wi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=st2eam&show_icons=true&hide_title=true&hide_border=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st2eam&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=default" />
-</div>
-
 ---
 
 ## 🔎 Currently Exploring
