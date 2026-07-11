@@ -11,23 +11,24 @@
 
 ### 👋 Hi, I'm st2eam
 
-**Agent Engineer · UI/UX Designer · Photographer**
+**AI Agent Engineer · Full-Stack Developer · Photographer**
 
-*Bridging AI agent development with frontend engineering*  
-*Blending technology and aesthetics to craft products that feel alive*
+*Building AI-powered products & agentic workflows*  
+*Crafting elegant interfaces with thoughtful user experiences*
 
-> ✨ Clean code. Interfaces that breathe. Photography with soul.
+> ✨ AI that works. Code that lasts. Photography with soul.
 
 </div>
 
 ---
 
-## 🚀 My Sites
+## 🌍 My Sites
 
 | Site | Description |
 |------|-------------|
 | 🌍 [**Photography Portfolio**](https://st2eam.github.io) | 24+ works across urban, portrait, landscape & abstract — masonry / timeline view with tag filtering |
-| 📝 [**Tech & Photo Notes**](https://st2eam.github.io/notes) | Thoughts on frontend, AI, photography, programming languages & design patterns |
+| 📝 [**Tech & Life Notes**](https://st2eam.github.io/notes) | Thoughts on AI agents, frontend, photography & design patterns |
+| ♟️ [**Boardgames**](https://st2eam.github.io/boardgames/) | Boardgame rules & collection manager — discover, learn, play |
 
 ---
 
@@ -39,15 +40,17 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP%20Protocol-0A0A0A?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
-`🔗 MCP Protocol` &nbsp; `🕸️ Agentic Workflows` &nbsp; `🖥️ AI-Powered UI` &nbsp; `🔍 Open-source LLMs` &nbsp; `🌐 Multimodal AI`
+`🔗 MCP Protocol` &nbsp; `🕸️ Agentic Workflows` &nbsp; `🖥️ AI-Powered UI` &nbsp; `🔍 Local LLMs` &nbsp; `🌐 Multimodal AI`
 
 ### ⚡ Languages & Frameworks
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=React&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -57,7 +60,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white)
 ![Lightroom](https://img.shields.io/badge/-Lightroom-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -74,8 +77,8 @@ Drawn to the interplay of light, shadow, and color — shooting across genres wi
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=st2eam&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st2eam&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=st2eam&show_icons=true&hide_title=true&hide_border=true&theme=default" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=st2eam&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=default" />
 </div>
 
 ---
@@ -83,11 +86,12 @@ Drawn to the interplay of light, shadow, and color — shooting across genres wi
 ## 🔎 Currently Exploring
 
 ```text
-AI Agent & MCP          ███████████████░   Deep Dive
-Vue 3 / React           ████████████░░░░   In Progress
-Python & Automation     ████████░░░░░░░░   Learning
-Design Systems          ███████████████░   Ongoing
-Photography             ████████████████   Always
+AI Agent & MCP          █████████████████   Production
+Image Processing & AI   ██████████████░░░   Deep Dive
+Full-Stack TS Apps      ██████████████░░░   Building
+Vue 3 / React           ██████████████░░░   In Progress
+Python & Automation     ██████████░░░░░░░   Learning
+Photography             █████████████████   Always
 ```
 
 ---
