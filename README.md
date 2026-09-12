@@ -26,9 +26,12 @@
 
 | Site | Description |
 |------|-------------|
-| 🌍 [**Photography Portfolio**](https://st2eam.github.io) | 24+ works across urban, portrait, landscape & abstract — masonry / timeline view with tag filtering |
+| 🌍 [**Portfolio**](https://st2eam.github.io) | 24+ works across urban, portrait, landscape & abstract — masonry / timeline view with tag filtering |
 | 📝 [**Tech & Life Notes**](https://st2eam.github.io/notes) | Thoughts on AI agents, frontend, photography & design patterns |
 | ♟️ [**Boardgames**](https://st2eam.github.io/boardgames/) | Boardgame rules & collection manager — discover, learn, play |
+| 🧠 [**Prompts**](https://st2eam.github.io/prompts/) | — |
+| 💰 [**Crypto**](https://st2eam.github.io/crypto/) | crypto |
+| 🔮 [**Tarot**](https://st2eam.github.io/tarot) | — |
 
 ---
 
