@@ -11,7 +11,7 @@
 
 ### 👋 Hi, I'm st2eam
 
-**AI Product Engineer · Full-Stack Developer · Photographer**
+**AI Product Engineer · Full-Stack Developer · Photographer · Board Game Enthusiast**
 
 *Building focused products with AI, TypeScript, and thoughtful interfaces*<br>
 *Turning ideas into useful tools for creativity, learning, and play*
